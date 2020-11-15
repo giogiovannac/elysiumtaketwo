@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-
-    // i am testing again
-
+    fun function(){
+        // this is a test
+    }
 }
